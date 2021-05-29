@@ -1,10 +1,11 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm @danmenjivar</h1>
-<h3 align="center">An inexperienced fullstack web developer from Sunny Southern California</h3>
+<h3 align="center">An inexperienced fullstack web developer from ☀️ Sunny Southern California</h3>
 
-<p align="left">  
+<p align="center">  
   <a href="https://linkedin.com/in/danmenjivar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="danmenjivar" /></a> 
   <a href="https://twitter.com/danielqmenjivar" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="danielqmenjivar" /></a> 
   <a href="https://instagram.com/_danmenjivar" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_danmenjivar" /></a>
+    <a href="https://buymeacoffee.com/danmenjivar" target="_blank"><img src="https://img.shields.io/badge/Buymeacoffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="_danmenjivar" /></a>
 </p>
  
 - 🌱 I’m currently learning **Frontend Web Design**

@@ -10,8 +10,7 @@
 
 ---
  
-- 🌱 I’m currently learning **Frontend Web Development**
-
+- 🌱 I’m currently learning **React** and after that **Backend**
 - 📝 I sometimes write articles on [My Personal Blog](https://danmenjivar.com/posts/)
 
 ### Languages and Tools

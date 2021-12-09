@@ -10,7 +10,7 @@
 
 ---
  
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **C#**, **.NET**, & **Angular**
 - 📝 I sometimes write articles on [My Personal Blog](https://danmenjivar.com/posts/)
 
 ### 💻 Programming Languages
